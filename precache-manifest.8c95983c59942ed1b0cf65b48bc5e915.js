@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "076f4e2fb70b34a4af64fc15188186fb",
+    "revision": "9debbad214daaebba57620221b5b9345",
     "url": "/LCA-Dashboard/index.html"
   },
   {
-    "revision": "fc2935cfaeaf645c09b0",
+    "revision": "213e0a88ce286e0baa1a",
     "url": "/LCA-Dashboard/static/css/2.d5700f61.chunk.css"
   },
   {
-    "revision": "35e4c4c78329cdd23c94",
+    "revision": "8fb897df549532d5927f",
     "url": "/LCA-Dashboard/static/css/main.574ac260.chunk.css"
   },
   {
-    "revision": "fc2935cfaeaf645c09b0",
-    "url": "/LCA-Dashboard/static/js/2.4b11d67f.chunk.js"
+    "revision": "213e0a88ce286e0baa1a",
+    "url": "/LCA-Dashboard/static/js/2.58da6dca.chunk.js"
   },
   {
     "revision": "244be08db1f147d8c60f121b5c7895dd",
-    "url": "/LCA-Dashboard/static/js/2.4b11d67f.chunk.js.LICENSE.txt"
+    "url": "/LCA-Dashboard/static/js/2.58da6dca.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "35e4c4c78329cdd23c94",
-    "url": "/LCA-Dashboard/static/js/main.cd4f0e10.chunk.js"
+    "revision": "8fb897df549532d5927f",
+    "url": "/LCA-Dashboard/static/js/main.24279392.chunk.js"
   },
   {
     "revision": "b4c1327b95080c004ffc",
