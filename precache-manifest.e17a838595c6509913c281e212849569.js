@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb1a8e2e21b58797d121efb50fa29356",
+    "revision": "1409a38c77760ab917ed4ebbf06f3550",
     "url": "/LCA-Dashboard/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LCA-Dashboard/static/css/2.d5700f61.chunk.css"
   },
   {
-    "revision": "29c849338a197d5702b2",
+    "revision": "bbed6b2d600259ac2c78",
     "url": "/LCA-Dashboard/static/css/main.c19ab131.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LCA-Dashboard/static/js/2.569b09d6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "29c849338a197d5702b2",
-    "url": "/LCA-Dashboard/static/js/main.cc158068.chunk.js"
+    "revision": "bbed6b2d600259ac2c78",
+    "url": "/LCA-Dashboard/static/js/main.5cdb1631.chunk.js"
   },
   {
     "revision": "b4c1327b95080c004ffc",
